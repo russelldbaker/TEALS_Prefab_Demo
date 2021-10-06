@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f107dc6d4c984c45bdafd3bb15f98f0, type: 3}
+  m_Name: Lesson 1
+  m_EditorClassIdentifier: 
+  TutorialTitle:
+    m_Untranslated: Tutorial 1 - Using a Prefab Scene
+  m_TutorialTitle: 
+  m_ProgressTrackingEnabled: 0
+  m_LessonId: 
+  m_Version: 1
+  m_Scene: {fileID: 0}
+  m_DefaultSceneCameraSettings:
+    m_CameraMode: 0
+    m_FocusMode: 0
+    m_Orthographic: 0
+    m_Size: 0
+    m_Pivot: {x: 0, y: 0, z: 0}
+    m_Rotation: {x: 0, y: 0, z: 0, w: 0}
+    m_FrameObject:
+      m_SceneGuid: 
+      m_GameObjectGuid: 
+      m_SerializedComponentType:
+        m_TypeName: 
+      m_ComponentIndex: 0
+      m_AssetObject: {fileID: 0}
+      m_Prefab: {fileID: 0}
+    m_Enabled: 0
+  m_WindowLayout: {fileID: 0}
+  m_Pages:
+    m_Items:
+    - {fileID: 11400000, guid: c617342a8f15245429848f645df8bdf1, type: 2}
+    - {fileID: 11400000, guid: bb3828d4ec3304db788b1159b5095688, type: 2}
+    - {fileID: 11400000, guid: f789105b10912407286a3555e4e33e12, type: 2}
+    - {fileID: 11400000, guid: 00c840008b6874a8585fc5be4261f5bf, type: 2}
+    - {fileID: 11400000, guid: 47ae136f52f444c6580e1dfdd9ff6992, type: 2}
+    - {fileID: 11400000, guid: fbf44b761763a4d268c01b1a90d93aac, type: 2}
+    - {fileID: 11400000, guid: 938aa8e0c565b4601879bacbb1a637ab, type: 2}
+    - {fileID: 11400000, guid: 9f94e7d49be674d779fe1a4354755b66, type: 2}
+    - {fileID: 11400000, guid: 1a5c7138861fe4d2b940e116907b1264, type: 2}
+    - {fileID: 11400000, guid: fe804cd9023094d4192fc8b56f708f45, type: 2}
+  Modified:
+    m_PersistentCalls:
+      m_Calls: []
+  Initiated:
+    m_PersistentCalls:
+      m_Calls: []
+  PageInitiated:
+    m_PersistentCalls:
+      m_Calls: []
+  GoingBack:
+    m_PersistentCalls:
+      m_Calls: []
+  Completed:
+    m_PersistentCalls:
+      m_Calls: []
+  Quit:
+    m_PersistentCalls:
+      m_Calls: []

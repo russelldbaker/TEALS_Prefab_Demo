@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89305aa391d1c5141bbe1628d930a2c5, type: 3}
+  m_Name: Tutorials
+  m_EditorClassIdentifier: 
+  Modified:
+    m_PersistentCalls:
+      m_Calls: []
+  BackgroundImage: {fileID: 2800000, guid: 85ef91bec5c6c498bb979f7d15f5466a, type: 3}
+  Title:
+    m_Untranslated: Using Car Prefabs
+  Subtitle:
+    m_Untranslated: 
+  Description:
+    m_Untranslated: 
+  ProjectLayout: {fileID: 0}
+  Sections:
+  - OrderInView: 0
+    Heading:
+      m_Untranslated: Tutorial 1
+    Text:
+      m_Untranslated: Using a Prefab Scene
+    Metadata: 
+    Url: 
+    Image: {fileID: 2800000, guid: 68b8cb7cf549e4c229ce3dbbe8055599, type: 3}
+    Tutorial: {fileID: 11400000, guid: 8eca7fe4080a84fb2a1856fa70ebf330, type: 2}
+  - OrderInView: 2
+    Heading:
+      m_Untranslated: Tutorial 2
+    Text:
+      m_Untranslated: Creating Your Own Scene With  Prefab Elements
+    Metadata: 
+    Url: 
+    Image: {fileID: 2800000, guid: bf9be60dc609148d3883be58303dc27a, type: 3}
+    Tutorial: {fileID: 11400000, guid: 3fd01ea7a9fbd4426833cf3b6da4a4b8, type: 2}
+  - OrderInView: 4
+    Heading:
+      m_Untranslated: Tutorial  3
+    Text:
+      m_Untranslated: Adding New Elements to Your Scene
+    Metadata: 
+    Url: 
+    Image: {fileID: 2800000, guid: 6a4a7dc5b76e5428a984c28c2e0184c4, type: 3}
+    Tutorial: {fileID: 11400000, guid: 34f81db8245eb4b7b869903129607a49, type: 2}

@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f107dc6d4c984c45bdafd3bb15f98f0, type: 3}
+  m_Name: Lesson 2
+  m_EditorClassIdentifier: 
+  TutorialTitle:
+    m_Untranslated: Tutorial 2 - Making Your Own Scene
+  m_TutorialTitle: 
+  m_ProgressTrackingEnabled: 0
+  m_LessonId: 
+  m_Version: 1
+  m_Scene: {fileID: 0}
+  m_DefaultSceneCameraSettings:
+    m_CameraMode: 0
+    m_FocusMode: 0
+    m_Orthographic: 0
+    m_Size: 0
+    m_Pivot: {x: 0, y: 0, z: 0}
+    m_Rotation: {x: 0, y: 0, z: 0, w: 0}
+    m_FrameObject:
+      m_SceneGuid: 
+      m_GameObjectGuid: 
+      m_SerializedComponentType:
+        m_TypeName: 
+      m_ComponentIndex: 0
+      m_AssetObject: {fileID: 0}
+      m_Prefab: {fileID: 0}
+    m_Enabled: 0
+  m_WindowLayout: {fileID: 0}
+  m_Pages:
+    m_Items:
+    - {fileID: 11400000, guid: 644e756d211e94e93894f34ad8208169, type: 2}
+    - {fileID: 11400000, guid: 42e0bae9511fa43d8936bb9ead950354, type: 2}
+    - {fileID: 11400000, guid: 9754cdec254504001a063749ab779c34, type: 2}
+    - {fileID: 11400000, guid: 9bd48da1a4f054160802abdd2867454a, type: 2}
+    - {fileID: 11400000, guid: d2ada8b0309474e1ba5c95261a62bbde, type: 2}
+    - {fileID: 11400000, guid: e2ebab5a900234f3bb872d8a0fb64e07, type: 2}
+    - {fileID: 11400000, guid: 4a81f46a6476c445283c13fd6f63bf0d, type: 2}
+    - {fileID: 11400000, guid: 18be3f453715d41aa9567c6899c3ce12, type: 2}
+    - {fileID: 11400000, guid: 16374d23e06a1469e9b86ff13e29a720, type: 2}
+    - {fileID: 11400000, guid: e2c27af36fabc45d986550dba7d5070d, type: 2}
+    - {fileID: 11400000, guid: d8ab8693af42343f290a22de27d5324d, type: 2}
+    - {fileID: 11400000, guid: b5bc13db316484e788b086db1b7febbf, type: 2}
+    - {fileID: 11400000, guid: 05b0e937dc8404f4a938e4540ff88c41, type: 2}
+    - {fileID: 11400000, guid: 38c5b848e8be34d19b29cfa64d72efa5, type: 2}
+    - {fileID: 11400000, guid: 81f7a6790f32742a79c961acfdca39db, type: 2}
+    - {fileID: 11400000, guid: 05ec7968f97374eadb8d32e3be057357, type: 2}
+  Modified:
+    m_PersistentCalls:
+      m_Calls: []
+  Initiated:
+    m_PersistentCalls:
+      m_Calls: []
+  PageInitiated:
+    m_PersistentCalls:
+      m_Calls: []
+  GoingBack:
+    m_PersistentCalls:
+      m_Calls: []
+  Completed:
+    m_PersistentCalls:
+      m_Calls: []
+  Quit:
+    m_PersistentCalls:
+      m_Calls: []
